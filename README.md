@@ -1,10 +1,4 @@
-### Aplicativo "Bob's Pet Shopping". Aqui foi desenvolvido um aplicativo de Pet onde é possível adicionar produtos, acompanhar entregas e entrar em contato, seja com suporte ou diretamente com o proprietário.
+### Aplicativo "Bob's Pet Shopping".
+### Nesse projeto foi utilizado um scrolView, elementos de layout, botões com funções para acessar outras activitys, etc.
 ### Trata-se de uma base para criação do aplicativo.
-## Aqui tem um ScrollView e todos os botões são acessados ao clicar.
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/92765775/150679014-4f2152c2-db3d-4cef-bc99-88ed807f33b6.gif)
-## Página de produtos onde foi colocado algumas imagens para reprensentar os produtos.
-## Local destinado para rastreamento de entrega
-## Local dedstinado para entrar em contato
-## Local destinado para tirar dúvidas.
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/92765775/150679014-4f2152c2-db3d-4cef-bc99-88ed807f33b6.gif) ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/92765775/150679139-19af6179-98f9-4049-9315-a73c5cab970b.gif)
